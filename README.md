@@ -1,7 +1,7 @@
 # chaimae bouyarmane
 
 <h1 align="center">Hi 👋, I'm chaimae bouyarmane</h1>
-<h3 align="center">I am a 21-year-old student pursuing a Master's in Information Systems and Intelligent Systems at INSEA in Rabat. My passion lies in full-stack development, artificial intelligence, and machine learning. Constantly striving to expand my knowledge and skills, I am eager to make an impact in the tech industry.</h3>
+<h3 align="center">Master's student in Information Systems and Intelligent Systems with a keen interest in AI, ML, and Data Engineering. Aspiring to drive innovation through data-driven solutions. Constantly striving to expand my knowledge and skills, I am eager to make an impact in the tech industry.</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/illustration-female-character-wearing-hijab-working-office_10045-686.jpg"/>
 <br>
 <br>
